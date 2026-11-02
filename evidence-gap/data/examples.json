@@ -1,0 +1,12 @@
+[
+  {"text": "커피를 마시면 치매가 예방된다",
+   "query": "(coffee OR caffeine) AND (dementia OR \"Alzheimer Disease\"[MeSH])"},
+  {"text": "화상에는 된장을 바르면 빨리 낫는다",
+   "query": "burns AND (\"traditional medicine\" OR \"folk remedies\" OR \"home remedies\")"},
+  {"text": "비타민C를 많이 먹으면 감기에 안 걸린다",
+   "query": "\"ascorbic acid\"[MeSH] AND \"common cold\"[MeSH] AND prevention"},
+  {"text": "레드와인 한 잔은 심장병을 막아준다",
+   "query": "(\"red wine\" OR resveratrol) AND (\"cardiovascular diseases\"[MeSH] OR \"coronary disease\")"},
+  {"text": "코피가 나면 고개를 뒤로 젖혀야 한다",
+   "query": "epistaxis AND (\"first aid\" OR \"head position\" OR management)"}
+]
